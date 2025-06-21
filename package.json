@@ -1,0 +1,25 @@
+{
+  "name": "mermaid-online-editor",
+  "version": "1.0.0",
+  "description": "一个简单易用的Mermaid在线编辑器，支持导出多种格式",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "keywords": [
+    "mermaid",
+    "流程图",
+    "在线编辑器",
+    "图表",
+    "导出",
+    "svg",
+    "png",
+    "jpg",
+    "pdf"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
